@@ -21,7 +21,7 @@ cd Python-SYN-Flood-Attack-Tool
 ## Usage
 
 ```
-python3 py3_synflood_cmd.py -t 10.20.30.40 -p 8080 -c 5
+python3 py3_synflood_cmd.py -t ip -p port -c 5
 python3 py3_SYN-Flood.py
 python SYN-Flood.py
 ```
@@ -38,5 +38,5 @@ optional arguments:
                         number of packets
   --version, -v         show program's version number and exit
 
-Usage: python3 py3_synflood_cmd.py -t 10.20.30.40 -p 8080 -c 1
+Usage: python3 py3_synflood_cmd.py -t ip -p port -c 1
 ```
