@@ -14,8 +14,8 @@ apt install python3-scapy
 ## Installation
 
 ```
-git clone https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool.git
-cd Python-SYN-Flood-Attack-Tool
+git clone https://github.com/klaiKOT/attack.web.ip
+cd KLAI
 ```
 
 ## Usage
